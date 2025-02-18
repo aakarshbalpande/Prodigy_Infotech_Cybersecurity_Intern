@@ -1,3 +1,3 @@
 # Prodigy_Infotech_Cybersecurity_Intern
-This repository contains the solutions to various tasks assigned to me during my 1-month internship at Prodigy InfoTech. Throughout this internship, I had the opportunity to work on practical projects that enhanced my skills in Cybersecurity
+This repository contains the solutions to various tasks assigned to me during my 1-month internship at Prodigy InfoTech. Throughout this internship, I had the opportunity to work on practical projects that enhanced my skills in Cybersecurity.
 
